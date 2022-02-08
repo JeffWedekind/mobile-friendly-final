@@ -10,7 +10,7 @@ A basic HTML5 Bootstrap template, including the required CSS and JS for bootstra
 ## Installation
 - A Terminal
 - GIT [GIT] (https://git-scm.com/)
-- Clone repository [GIT Clone] (https://github.com/JeffWedekind/bootstrap-boilerplate/tree/main)
+- Clone repository [GIT Clone] (https://github.com/JeffWedekind/mobile-friendly-final.git)
 - Text Editor or VS Code [VS Code] (https://code.visualstudio.com/)
 
 ## Contributing

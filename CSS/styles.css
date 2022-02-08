@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+}
+.parallax {
+    /* The image used */
+    background-image: url("/IMG/AztecWarrior.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Lobster', cursive;
+}   
+.icon2 {
+    background-image: url("/IMG/DarceDaddy.jpg");
+} 
+.icon3 {
+    background-image: url("/IMG/Established.jpg");
+}
